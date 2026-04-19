@@ -2,8 +2,6 @@
 
 A modern ChatGPT-style AI chat application powered by Groq's fast language models. Features include multi-model support, persistent chat history, auto-context memory extraction, and a beautiful dark-themed UI.
 
-![Chat UI](https://via.placeholder.com/800x400?text=AI+Chat+Application)
-
 ## Features
 
 ### 🚀 Core Features
