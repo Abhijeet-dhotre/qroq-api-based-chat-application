@@ -182,6 +182,3 @@ MIT License - feel free to use for any purpose.
 - [marked.js](https://marked.js.org) for markdown rendering
 - [Vite](https://vitejs.dev) for the build tool
 
----
-
-Made with ❤️ by Abhijeet
